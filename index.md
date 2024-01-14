@@ -19,3 +19,8 @@ var hello = "Hello, World!!!";
 ``` python
 msg = "Hello, World!!!"
 ```
+
+- [x] Some task which is completed
+- [ ] Turn on Github pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
